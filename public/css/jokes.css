@@ -1,0 +1,16 @@
+/* Estilize o título da página */
+h1 {
+  color: #333; /* Cor do texto */
+  font-size: 24px; /* Tamanho da fonte */
+}
+
+/* Estilize a lista de piadas (supondo que é uma lista não ordenada <ul>) */
+ul {
+  list-style-type: disc; /* Marcador de lista como círculo */
+}
+
+/* Estilize os itens da lista */
+li {
+  color: #666; /* Cor do texto */
+  margin-bottom: 10px; /* Margem inferior entre as piadas */
+}
